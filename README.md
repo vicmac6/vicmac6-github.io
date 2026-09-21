@@ -1,4 +1,4 @@
-# victoria.macann-github.io
+# vicmac6-github.io
 
 Title: Dr. Victoria Macann Slug: home Save_as: index.html Template: index
 
