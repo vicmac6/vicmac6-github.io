@@ -5,3 +5,5 @@ Title: Dr. Victoria Macann Slug: home Save_as: index.html Template: index
 <img src="/img/Victoria_Macann_headshot.jpg" style="float:left;margin:0 1.25rem 1rem 0" width="120" alt="Victoria Macann">
 Victoria is an 1855 Assistant Professor of Computing Education in the Department of Computational Mathematics, Science and Engineering and Counseling, Educational Psychology & Special Education. She gained her PhD and MEd in Digital Education from Massey University, New Zealand. Victoria also has a BSc in Biological Sciences and a post-graduate degree in secondary teaching. Victoria worked as a postdoctoral scholar in the Center for Computing Education at The Ohio State University prior to joining MSU.
 Victoria's research focuses on examining motivation, self-efficacy, and learning in computing and GenAI-supported environments. 
+
+## Research 
